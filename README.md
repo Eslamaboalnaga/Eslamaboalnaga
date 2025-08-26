@@ -1,7 +1,7 @@
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 ### Hello World, I'm Eslam  👋
-## I'm a Data Scientist with a bachelor’s degree in Computer Science. 
+## I'm a Data Analyst at Nesma Airlines. 
 - 🌱 I’m currently learning deep learning.
 - 👯 Seeking an opportunity to enhance my technical skills in data science.
 - 💬 Ask me about ... Anything.
